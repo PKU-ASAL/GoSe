@@ -1,0 +1,7 @@
+__pycache__
+GoSe/utils/env.py
+GoSe/input/instantiation_guidebook/*
+GoSe/input/sandbox.tgz
+GoSe/output/probability/*
+GoSe/output/seeds/*
+tests

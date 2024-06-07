@@ -1,0 +1,8 @@
+# python-dotenv=0.20.0
+scipy=1.5.4
+# pytest=7.0.1
+colorlog=6.8.0
+# matplotlib=3.3.4
+pillow=8.4.0
+pandas=1.1.5
+xeger=0.4.0
